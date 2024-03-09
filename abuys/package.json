@@ -1,7 +1,6 @@
 {
   "name": "abuys",
   "version": "1.1.4",
-"private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -28,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hadianasobur/tea"
+    "url": "git+https://github.com/hadianasobur/tea.git"
   },
   "author": "",
   "license": "ISC",
