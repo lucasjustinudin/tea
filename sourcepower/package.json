@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hadianasobur/tea.git"
+    "url": "https://github.com/hadianasobur/tea"
   },
   "author": "",
   "license": "ISC",
